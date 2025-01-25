@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a BackEnd Developer
 -----------------------
 
-💪 I like to write code 🎉 I love to paint and play the guitar 🥅 I am constantly learning new things 🤹🏽 I like to shoot videos for youtube
+💪 I like to write code
+🎉 I love to paint and play the guitar
+🥅 I am constantly learning new things 
+🤹🏽 I like to shoot videos for youtube
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [gegeesaeyeyser@gmail.com](mailto:gegeesaeyeyser@gmail.com)
