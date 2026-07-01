@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, меня зовут Максим </h1>
+<h1 align="center">Привет 👋, меня зовут Иван </h1>
 <h3 align="center">💻  backend-разработчик из России</h3>
 
 <p align="center">
