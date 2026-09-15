@@ -2,7 +2,7 @@
 <br/>
 Иван Соколов
 
-Backend разработчик ·Белгород
+Backend разработчик · Белгород
 
 <br/>
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,postgres,docker,kubernetes&theme=dark" alt="stack"/>
