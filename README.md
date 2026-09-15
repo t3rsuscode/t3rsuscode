@@ -2,7 +2,7 @@
 <br/>
 Иван Соколов
 
-Fullstack разработчик · Москва, удалённо
+Backend разработчик ·Белгород
 
 <br/>
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,postgres,docker,kubernetes&theme=dark" alt="stack"/>
@@ -25,7 +25,7 @@ Fullstack разработчик · Москва, удалённо
 <br/>
 Контакты
 
-📧 ivan@sokolov.dev · 💬 @ivansokolov · 🌐 sokolov.dev
+📧 ivan@sokolov.dev · 💬 @ivansokolov · 🌐 blade.dev
 
 <br/>
 <div align="center">
